@@ -1,5 +1,5 @@
 {
-  "name": "@chibelsonda/flowy-vue",
+  "name": "@chibel/flowy-vue",
   "version": "1.0.13",
   "description": "Shopify draggable for Vue",
   "main": "./dist/lib/flowy-vue.common.js",
